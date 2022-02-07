@@ -2,12 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>mysitepublic/archives/</loc>
+    <loc>https://carlklier.github.io/mysitepublic/archives/</loc>
   </url><url>
-    <loc>mysitepublic/</loc>
+    <loc>https://carlklier.github.io/mysitepublic/</loc>
   </url><url>
-    <loc>mysitepublic/categories/</loc>
+    <loc>https://carlklier.github.io/mysitepublic/categories/</loc>
   </url><url>
-    <loc>mysitepublic/tags/</loc>
+    <loc>https://carlklier.github.io/mysitepublic/tags/</loc>
   </url>
 </urlset>
